@@ -3,3 +3,4 @@
 # newMaster
 # branch1
 # branch1 adds new feature
+# feature2
